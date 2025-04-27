@@ -43,6 +43,3 @@ Este projeto foi desenvolvido com base em um desafio do Frontend Mentor.
 https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
 Agradecimentos a todos os recursos utilizados, como ícones e imagens.
-
-# Licença 📝
-Este projeto está licenciado sob a MTI.
