@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/news-homepage-main-Frontend-Mentor",
+  base: "/news-homepage-main",
 })
