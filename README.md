@@ -1,5 +1,7 @@
 # News Homepage📱📰
 Este projeto é uma aplicação de exemplo desenvolvida com React, utilizando o Vite como ferramenta de build. A aplicação apresenta uma interface moderna com componentes reutilizáveis e responsivos, usando CSS modularizado para garantir uma organização eficiente do estilo.
+![Preview do Projeto](src/assets/images/preview-desktop.jpeg)
+![Preview do Projeto](src/assets/images/preview-mobile.jpeg)
 
 # Tecnologias Usadas⚙️ 
 * **React.js** - Biblioteca JavaScript para construção de interfaces de usuário.
@@ -38,8 +40,6 @@ Cada um desses componentes possui um arquivo de CSS dedicado para seu estilo, pr
 
 # Créditos 🙌
 Este projeto foi desenvolvido com base em um desafio do Frontend Mentor.
+https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
 Agradecimentos a todos os recursos utilizados, como ícones e imagens.
-
-# Licença 📝
-Este projeto está licenciado sob a MTI.
